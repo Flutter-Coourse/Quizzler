@@ -1,4 +1,4 @@
-# quizzler
+# Quizzler
 
 Quiz App
 
